@@ -1,7 +1,5 @@
 # Porteføljenettside – design og planlegging
 
-*Utviklingsfaget Vg2*
-
 I dette prosjektet skal dere lage en egen porteføljenettside der dere presenterer dere selv og prosjektene deres. Nettsiden skal etter hvert kodes fra bunnen av, men i denne første fasen skal dere **ikke** begynne å kode. Nå skal dere bruke tiden på å tenke gjennom design, layout og innhold – hvordan siden skal se ut, hvilke sider den skal ha, og hvilke prosjekter dere vil vise frem og på hvilken måte.
 
 ## Hva skal dere jobbe med nå?
